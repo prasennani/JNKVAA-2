@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{E5490BAD-7076-4FC4-AE5F-7A74582D7917}|">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JNKVAA" expanded="True">
+            <Node name="JNKVAA" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="admin" expanded="True" />
+              <Node name="about.html" selected="True" />
+              <Node name="WebService.asmx" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.JNKVAA PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
