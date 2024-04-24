@@ -1,17 +1,26 @@
 ﻿<Properties StartupConfiguration="{E5490BAD-7076-4FC4-AE5F-7A74582D7917}|" GitUserInfo="UsingMD">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.JNKVAA PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="JNKVAA/cookiepolicy.html">
+    <Files>
+      <File FileName="JNKVAA/termsandconditions.html" Line="128" Column="118" />
+      <File FileName="JNKVAA/Web.config" Line="1" Column="1" />
+      <File FileName="JNKVAA/signup.html" Line="1" Column="1" />
+      <File FileName="JNKVAA/privacyPolicy.html" Line="6" Column="26" />
+      <File FileName="JNKVAA/cookiepolicy.html" Line="6" Column="19" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="JNKVAA" expanded="True">
-            <Node name="JNKVAA" expanded="True">
+          <Node name="JNKVAA">
+            <Node name="JNKVAA">
               <Node name="References" expanded="True" />
               <Node name="admin" expanded="True" />
-              <Node name="about.html" selected="True" />
+              <Node name="cookiepolicy.html" selected="True" />
               <Node name="WebService.asmx" expanded="True" />
             </Node>
           </Node>
