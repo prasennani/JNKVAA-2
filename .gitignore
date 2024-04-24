@@ -1,1 +1,11 @@
 /HTML Files
+# Exclude specific files
+/.vs/*
+/.vscode/*
+/.DS_Store
+/JNKVAA.sin
+/JNKVAA.v11.suo
+/JNKVAA/.DS_Store
+# Exclude specific files
+/JNKVAA/JNKVAA.csproj
+/JNKVAA/WebServices.asmx.cs
