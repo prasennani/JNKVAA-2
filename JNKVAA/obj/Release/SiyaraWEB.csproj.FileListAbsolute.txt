@@ -1,0 +1,7 @@
+/Users/prasennani/Projects/JNKVAA-2/JNKVAA/bin/JNKVAA.dll
+/Users/prasennani/Projects/JNKVAA-2/JNKVAA/bin/JNKVAA.pdb
+/Users/prasennani/Projects/JNKVAA-2/JNKVAA/obj/Release/SiyaraWEB.csproj.AssemblyReference.cache
+/Users/prasennani/Projects/JNKVAA-2/JNKVAA/obj/Release/SiyaraWEB.csproj.CoreCompileInputs.cache
+/Users/prasennani/Projects/JNKVAA-2/JNKVAA/obj/Release/SiyaraWEB.csproj.CopyComplete
+/Users/prasennani/Projects/JNKVAA-2/JNKVAA/obj/Release/JNKVAA.dll
+/Users/prasennani/Projects/JNKVAA-2/JNKVAA/obj/Release/JNKVAA.pdb

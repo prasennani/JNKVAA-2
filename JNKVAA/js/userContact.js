@@ -25,7 +25,7 @@ $(document).ready(function () {
 
 function sendContactMessage() {
     $.ajax({
-        url: '../WebService.asmx/addMessage',
+        url: '../WebService.asmx/addMessages',
         type: "POST", // type of the data we send (POST/GET)
         contentType: "application/json",
         data: "{ 'uname': '" + $('#name').val() + "', 'uphno': '" + $('#phno').val() + "', 'sub': '" + $('#subject').val() + "', 'message': '" + $('#message').val() + "'}",

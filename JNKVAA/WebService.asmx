@@ -1,1 +1,1 @@
-﻿<%@ WebService Language="C#" CodeBehind="WebService.asmx.cs" Class="JNKVAA.WebService" %>
+﻿<%@ WebService Language="C#" CodeBehind="WebService.asmx.cs" Class="SIYARA.WebService" %>
