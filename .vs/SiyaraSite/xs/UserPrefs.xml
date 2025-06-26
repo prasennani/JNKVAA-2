@@ -1,0 +1,36 @@
+﻿<Properties GitUserInfo="UsingMD" StartupConfiguration="{E5490BAD-7076-4FC4-AE5F-7A74582D7917}|">
+  <MonoDevelop.Ide.ItemProperties.SiyaraWEB PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="JNKVAA/Web.Release.config">
+    <Files>
+      <File FileName="JNKVAA/Web.config" Line="10" Column="102" />
+      <File FileName="JNKVAA/WebService.asmx.cs" Line="16" Column="17" />
+      <File FileName="JNKVAA/contact.html" Line="204" Column="11" />
+      <File FileName="JNKVAA/js/contact.js" Line="37" Column="36" />
+      <File FileName="JNKVAA/js/userContact.js" Line="28" Column="44" />
+      <File FileName="JNKVAA/js/main.js" Line="1" Column="1" />
+      <File FileName="JNKVAA/Web.Debug.config" Line="1" Column="1" />
+      <File FileName="JNKVAA/Web.Release.config" Line="1" Column="1" />
+      <File FileName="JNKVAA/WebService.asmx" Line="1" Column="75" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SiyaraSite">
+            <Node name="SiyaraWEB" expanded="True">
+              <Node name="js" expanded="True" />
+              <Node name="Web.config" expanded="True">
+                <Node name="Web.Release.config" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
